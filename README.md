@@ -2,7 +2,7 @@
 
 This project uses machine learning to recommend the best crop to grow based on soil and environmental parameters.
 
-## 🔍 Features Used:
+## 🔍 Parameters Used:
 - Nitrogen (N)
 - Phosphorus (P)
 - Potassium (K)
