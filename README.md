@@ -29,6 +29,10 @@ You can run the full project on Google Colab. Just upload the notebook and the d
 - `crop_recommendation.ipynb` – the full Colab notebook
 - `Crop_recommendation.csv` – dataset
 
+### ▶️ Run in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samiera12/crop-recommendation-ml/blob/main/Crop_recommendation.ipynb)
+
 ## 📌 How to Run
 1. Open in Google Colab
 2. Run each cell
